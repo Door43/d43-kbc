@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kbc:home|Door43 (kbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kbc|d43-kbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kbc/archive/master.zip|d43-kbc.zip]]
+
+**Recent Changes**
+{{changes>ns = kbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kbc|Ethnologue data]]
+
